@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Shameka Harris! <br/><a 
+href="https://www.linkedin.com/in/shameka-harris-5b6745141/">Data Analyst</a>
+</h1>
 
-<!--
-**shamekaharris7918-cyber/shamekaharris7918-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>💾SQL Project</b>
+  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚Certifications:</h2>
+
+- <b>📜Beginner to Intermediate SQL Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://app.virtualbadge.io/tmettza9/44dtqpsx/?token=54081b1f-da5d-4eae-96d6-23236c328cea&otp_code=977441)
+
+
+<h2>📱Connect with me:</h2>
+<a href="https://www.linkedin.com/in/shameka-harris-5b6745141/" target="_blank">
+  <img align="left" alt="Shameka Harris" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+
