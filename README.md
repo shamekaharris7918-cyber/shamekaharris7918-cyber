@@ -5,7 +5,10 @@ href="https://www.linkedin.com/in/shameka-harris-5b6745141/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/shamekaharris7918-cyber/SQL_Techniques)
+
+- <b>💾Advance SQL Project </b>
+  - [Demonstrating Advance SQL Techniques](https://github.com/shamekaharris7918-cyber/SQL_Techniques)
 
 <h2>📚Certifications:</h2>
 
