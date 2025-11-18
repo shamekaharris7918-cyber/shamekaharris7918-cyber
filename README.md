@@ -10,7 +10,11 @@ href="https://www.linkedin.com/in/shameka-harris-5b6745141/">Data Analyst</a>
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](https://app.virtualbadge.io/tmettza9/44dtqpsx/?token=54081b1f-da5d-4eae-96d6-23236c328cea&otp_code=977441)
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=856fa823-8eec-44e2-831d-05e6a77714e0)
+
+- <b>📜Advanced SQL Boot Camp</b>
+  - [Demonstrated competency in advanced SQL skills](https://app.virtualbadge.io/tmettza9/44dtqpsx/?token=54081b1f-da5d-4eae-96d6-23236c328cea&otp_code=977441)
+
 
 
 <h2>📱Connect with me:</h2>
